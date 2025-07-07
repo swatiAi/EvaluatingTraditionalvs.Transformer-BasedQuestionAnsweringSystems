@@ -1,0 +1,21 @@
+# Core Libraries
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+
+# NLP & Models
+nltk==3.8.1
+transformers==4.41.2
+torch==2.3.0  # Needed for HuggingFace models
+
+# Web Interface
+streamlit==1.35.0
+
+# Plotting
+matplotlib==3.9.0
+
+# Dataset handling
+datasets==2.19.1
+
+# Optional: To suppress HF warnings
+huggingface_hub==0.23.0
