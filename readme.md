@@ -139,5 +139,5 @@ streamlit run app_compare.py
 ## 📬 Contact
 
 - **Usman Swati**  
-- Final Year BSCS, Spring 2025  
-- GitHub: [@yourusername](https://github.com/yourusername)
+- usmansawati@gmail.com
+
